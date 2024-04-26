@@ -1,0 +1,1 @@
+Am creat baza de date si am realizat apoi conexiuna in clasa Database. Am creat apoi o clasa pentru magagind autorii unde am creat metodele "create", "findByName" si "findById" care creeaza un nou camp in baza de date, gaseste id-ul pentru un nume dat si respectiv gaseste numele pentru un Id dat.
