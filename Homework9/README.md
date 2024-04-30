@@ -1,0 +1,1 @@
+Am adaugat cartii a publishing house si implementat relatiile necesare, apoi am implementat o interfata numita AbstractRepository pentru a simplifica crearea claselor repository. In final apoi am creat un Java logger unde am trecut informatiile despre exceptii si timpul de executie. 
